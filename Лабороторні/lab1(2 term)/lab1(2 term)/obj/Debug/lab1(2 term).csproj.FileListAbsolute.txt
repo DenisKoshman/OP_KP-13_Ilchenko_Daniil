@@ -1,0 +1,46 @@
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\bin\Debug\lab1(2 term).exe.config
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\bin\Debug\lab1(2 term).exe
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\bin\Debug\lab1(2 term).pdb
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).csproj.AssemblyReference.cache
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\MainWindow.g.cs
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\App.g.cs
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term)_MarkupCompile.cache
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term)_MarkupCompile.lref
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\MainWindow.baml
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).g.resources
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1_2_term_.Properties.Resources.resources
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).csproj.GenerateResource.cache
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).csproj.CoreCompileInputs.cache
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).exe
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).pdb
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\Window1.g.cs
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\Window2.g.cs
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\Window3.g.cs
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\Window4.g.cs
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\Window1.baml
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\Window2.baml
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\Window3.baml
+C:\Users\ilche\source\repos\lab1(2 term)\lab1(2 term)\obj\Debug\Window4.baml
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\bin\Debug\lab1(2 term).exe.config
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\bin\Debug\lab1(2 term).exe
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\bin\Debug\lab1(2 term).pdb
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).csproj.AssemblyReference.cache
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\MainWindow.g.cs
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\Window1.g.cs
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\Window2.g.cs
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\Window3.g.cs
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\Window4.g.cs
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\App.g.cs
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term)_MarkupCompile.cache
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term)_MarkupCompile.lref
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\MainWindow.baml
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\Window1.baml
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\Window2.baml
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\Window3.baml
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\Window4.baml
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).g.resources
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1_2_term_.Properties.Resources.resources
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).csproj.GenerateResource.cache
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).csproj.CoreCompileInputs.cache
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).exe
+C:\ОП\Лабороторні\lab1(2 term)\lab1(2 term)\obj\Debug\lab1(2 term).pdb
